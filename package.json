@@ -1,0 +1,13 @@
+{
+  "name": "interview-question",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "jest": "^23.3.0"
+  }
+}
